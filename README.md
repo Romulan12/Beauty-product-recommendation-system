@@ -69,3 +69,5 @@ The `data/` directory contains:
 - **Processed Data:**
   - `combined_with_embeddings.parquet`
   - Datasets enriched with vector embeddings for similarity computations.
+
+ >  ChatGPT was used in this project to assist with debugging Python code, generating docstring explanations, and reviewing grammar in the report. All AI outputs were carefully reviewed, modified as necessary, and responsibly integrated to maintain academic integrity.
