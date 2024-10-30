@@ -1,4 +1,3 @@
-# Beauty-product-reccomendation-system
 # Beauty Recommendation System
 
 The Beauty Recommendation System utilizes large-scale datasets containing beauty product information, user reviews, and purchase histories to build a recommendation engine. The system incorporates collaborative filtering and vector-based similarity search to suggest products that align with user preferences.
